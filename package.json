@@ -1,0 +1,16 @@
+{
+  "name": "paymoni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ussd-menu-builder": "^1.1.1",
+    "yarn": "^1.16.0"
+  }
+}
