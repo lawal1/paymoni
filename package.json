@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "ussd-menu-builder": "^1.1.1",
-    "yarn": "^1.16.0"
+    "yarn": "^1.22.0"
   }
 }
